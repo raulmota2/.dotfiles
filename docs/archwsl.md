@@ -5,7 +5,7 @@
     ```bash
     sudo pacman -S git
     ```
-2.5.    Clone repository
+2. Clone repository
     ```bash
     cd ~/
     git clone https://github.com/raulmota2/.dotfiles.git
