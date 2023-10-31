@@ -5,6 +5,12 @@
     ```bash
     sudo pacman -S git
     ```
+2.5.    Clone repository
+    ```bash
+    cd ~/
+    git clone https://github.com/raulmota2/.dotfiles.git
+    cd .dotfiles
+    ```
 3. Install packages 
     ```bash        
     sudo ./scripts/wsl/install-apps.sh
